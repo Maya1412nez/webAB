@@ -1,12 +1,12 @@
-# Pixel Transition Effects
+# Fullscreen Clip Effect
 
-Ideas for pixel page transitions based on an [animation](https://twitter.com/niccolomiranda/status/1628359949972819968) by [Niccolò Miranda](https://www.instagram.com/niccolomiranda/).
+Some inspiration for clip-path animations where a fullscreen image moves into a row/grid of smaller images, morphing its shape along the way. 
 
-![Pixel Transition](https://tympanus.net/codrops/wp-content/uploads/2023/04/pixeltransition.jpg)
+![Image Title](https://tympanus.net/codrops/wp-content/uploads/2023/03/ClipAnimation_featured.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=71437)
+[Article on Codrops](https://tympanus.net/codrops/?p=70833)
 
-[Demo](http://tympanus.net/Development/PixelTransition/)
+[Demo](http://tympanus.net/Development/FullscreenClipEffect/)
 
 
 ## Installation
@@ -15,7 +15,7 @@ Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn
 
 ## Credits
 
-- Images from [Pexels](https://www.pexels.com/)
+- Images from [Unsplash](https://unsplash.com/)
 
 ## Misc
 
